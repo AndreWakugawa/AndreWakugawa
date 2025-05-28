@@ -1,6 +1,6 @@
 
   Born in 1999, bachelor in Film and currently finishing my second degree in Database at Fatec Prof. Jessen Vidal.<br>
-  A Back-end developer with Java + SpringBoot, SQL and NoSQL databases.
+  A Back-end developer focused on Java + SpringBoot, SQL and NoSQL databases.
   At the moment learning Golang and Apache Spark.
 
 ## 🧠 Languages: 

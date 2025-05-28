@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**AndreWakugawa/AndreWakugawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Born in 1999, bachelor in Film and currently finishing my second degree in Database at Fatec Prof. Jessen Vidal.<br>
+  A Back-end developer with Java + SpringBoot, SQL and NoSQL databases.
+  At the moment learning Golang and Apache Spark.
 
-Here are some ideas to get you started:
+## 🧠 Languages: 
+   
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,html,css,python,golang,mysql,postgresql,redis)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  💼 Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=spring,linux,ubuntu,docker,postman,github,githubactions,vue,figma,idea,eclipse,maven,git,npm,discord)](https://skillicons.dev)
+
+
+<br></br>
+<br></br>
